@@ -23,7 +23,7 @@ class Projects extends Component {
                         <Button colored>Github</Button>
                         <Button colored>LiveDemo</Button>
                         <Button colored>Site</Button>
-                    </CardActions>
+                    </CardActions> 
                     <CardMenu style={{color: '#fff'}}>
                         <IconButton name="share" />
                     </CardMenu>
