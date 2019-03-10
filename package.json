@@ -2,7 +2,7 @@
   "name": "myportfoliosit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jjarrett21.github.io",
+  "homepage": "http://jjarrett21.github.io/myportfoliosite",
   "dependencies": {
     "install": "^0.12.2",
     "npm": "^6.4.1",
