@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "aafc2f6e0dedb34d1b2e",
+    "revision": "ea40bdd0af3dc74be522",
     "url": "/myportfoliosite/home/static/css/main.50e5d58d.chunk.css"
   },
   {
-    "revision": "aafc2f6e0dedb34d1b2e",
-    "url": "/myportfoliosite/home/static/js/main.bd100fa4.chunk.js"
+    "revision": "ea40bdd0af3dc74be522",
+    "url": "/myportfoliosite/home/static/js/main.b55fc5ad.chunk.js"
   },
   {
     "revision": "856c50e4b4e50aa37340",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/myportfoliosite/home/static/media/James-avi.e407bd3e.png"
   },
   {
-    "revision": "f38fd61d2c26796c6f0c44de3186cb33",
+    "revision": "4775ce07525a4f3607bbc6e803d5c5bc",
     "url": "/myportfoliosite/home/index.html"
   }
 ];
