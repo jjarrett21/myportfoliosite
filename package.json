@@ -2,7 +2,7 @@
   "name": "myportfoliosit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jjarrett21.github.io/myportfoliosite",
+  "homepage": "http://jjarrett21.github.io/myportfoliosite/home",
   "dependencies": {
     "install": "^0.12.2",
     "npm": "^6.4.1",
@@ -19,7 +19,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
