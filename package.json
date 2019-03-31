@@ -2,7 +2,7 @@
   "name": "myportfoliosit",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jjarrett21.github.io/myportfoliosite/home",
+  "homepage": "http://jjarrett.tech",
   "dependencies": {
     "install": "^0.12.2",
     "npm": "^6.4.1",
@@ -10,16 +10,14 @@
     "react-dom": "^16.7.0",
     "react-mdl": "^1.11.0",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "^2.1.8",
-    "redux": "^4.0.1",
-    "video-react": "^0.13.1"
+    "react-scripts": "^2.1.8"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
