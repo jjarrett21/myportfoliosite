@@ -14,8 +14,6 @@ function LandingPage() {
                         alt="avatar"
                         className="avatar-img"
                     />
-
-
                     <div className="banner-text">
                         <h1>Software and Electrical Engineer</h1>
 

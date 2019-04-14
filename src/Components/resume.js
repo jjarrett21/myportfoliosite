@@ -21,7 +21,7 @@ class Resume extends Component {
 
                         <h2 style={{ paddingTop: '2em' }}>James Jarrett</h2>
                         <h4 style={{ color: 'grey' }}>Software Engineer</h4>
-                        <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
+                        <hr style={{ borderTop: '3px solid #e22947', width: '50%' }} />
                         <p>Focused on edge technologies as well as becoming the true definition of a full stack developer. I have a passion for growing by experience and passing that knowledge to others. </p>
                         <h5>Location</h5>
                         <p>Dallas, TX</p>
@@ -31,11 +31,10 @@ class Resume extends Component {
                         <p>jjarrett@skyylife.io</p>
                         <h5>Web</h5>
                         <p>jjarrett.tech</p>
-                        <hr style={{ borderTop: '3px solid #833fb2', width: '50%' }} />
+                        <hr style={{ borderTop: '3px solid #e22947', width: '50%' }} />
                     </Cell>
                     <Cell className="resume-right-col" col={8}>
                         <h2>Education</h2>
-
                         <Education
                             startYear={2011}
                             endYear={2017}
@@ -45,6 +44,14 @@ class Resume extends Component {
                         <hr style={{ borderTop: '3px solid #e22947' }} />
 
                         <h2>Experience</h2>
+                        <Experience
+                            startYear={2019}
+                            endYear={0}
+                            jobTitle="Front End Engineer"
+                            jobName="Hyper Giant Sensory Sciences"
+                            jobDescription="Hyper Giant is a startup focusing in artifical intelligence based video analytics."
+
+                        />
 
                         <Experience
                             startYear={2017}
@@ -54,14 +61,6 @@ class Resume extends Component {
                             jobDescription="ETC is a technology company based in the toll industry, here I worked as an Application Developer focusing in java, javascript, and some python."
                         />
 
-                        <Experience
-                            startYear={2019}
-                            endYear={0}
-                            jobTitle="Front End Engineer"
-                            jobName="Hyper Giant Sensory Sciences"
-                            jobDescription="Hyper Giant is a startup focusing in artifical intelligence based video analytics."
-
-                        />
                         <hr style={{ borderTop: '3px solid #e22947' }} />
                         <h2>Skills</h2>
                         <Skills
